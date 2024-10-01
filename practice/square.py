@@ -18,4 +18,3 @@ b.setdata(5,5)
 
 print(a.pow())
 print(b.sum())
-
